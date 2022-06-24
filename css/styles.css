@@ -1,0 +1,145 @@
+body {
+  color: #40514E;
+  margin: 50px 0 0 0;
+  text-align: center;
+  background-color: #E4F9F4;
+  font-family: 'Merriweather', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5em;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  margin: 100px auto;
+  border: 10px dotted #EAF6F6;
+  border-bottom: none;
+  width: 10%;
+}
+
+a {
+  margin: 25px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAEAF6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.sophie {
+  width: 300px;
+}
+
+.intro {
+  width: 20%;
+  margin: auto;
+}
+
+.tablet-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.programming-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.middle-container {
+  background-color: #ffffff;
+  padding: 100px;
+}
+
+.contact-me {
+  padding: 100px;
+  background-color: #ffffff;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  background-color: #66BFBF;
+}
+
+.button-margin {
+  margin-top: 100px;
+}
+
+.contact-message {
+  width: 25%;
+  margin: 40px auto 35px;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11cdd4;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2bc4ad;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #EAEAF6;
+  font-size: 0.75rem;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
